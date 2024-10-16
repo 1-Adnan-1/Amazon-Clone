@@ -9,7 +9,7 @@ This project is a clone of Amazon's basic interface using HTML and CSS
  In this project I made using HTML and CSS, I aimed to write clean, readable code
 I will improve myself more in the front-end area
 
-* Aşağıdaki projenin önizlemesi
+* Preview of the project below
 
 🌟 Best regards
 
